@@ -1,0 +1,5 @@
+# ninja log v5
+1	470	7038640280104832	C:/Users/shukl/Documents/Sem-6/ESD/Assignment 2/Imp/Debug/Obj/main.o	fdf2541045e83b65
+1	158	7038640340208552	C:/Users/shukl/Documents/Sem-6/ESD/Assignment 2/Imp/Debug/Obj/startup_TM4C123.o	7d1704d36398ad35
+0	106	7038640465600496	C:/Users/shukl/Documents/Sem-6/ESD/Assignment 2/Imp/Debug/Obj/main.o	fdf2541045e83b65
+12	73	7038640481785609	C:/Users/shukl/Documents/Sem-6/ESD/Assignment 2/Imp/Debug/Exe/ohmmeter_imp.out	8439419f4da46b0f
